@@ -5893,3 +5893,111 @@
   latest_ping = 258.2,
   ping_send = true
 }
+[276.150][21:10:01 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 276.15000000000003,
+  ping_send = false
+}
+[276.550][21:10:02 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 276.55,
+  ping_send = false
+}
+[276.800][21:10:02 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 276.8,
+  ping_send = false
+}
+[409.750][21:12:15 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 408.75,
+  ping_send = true
+}
+[409.650][21:12:15 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 408.65000000000003,
+  ping_send = true
+}
+[409.800][21:12:15 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 408.8,
+  ping_send = true
+}
+[457.750][21:13:03 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 457.75,
+  ping_send = false
+}
+[457.650][21:13:03 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 457.65000000000003,
+  ping_send = false
+}
+[457.800][21:13:03 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 457.8,
+  ping_send = false
+}
+[481.000][21:13:26 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 480,
+  ping_send = true
+}
+[481.050][21:13:26 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 480.05,
+  ping_send = true
+}
+[480.950][21:13:26 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 479.95000000000005,
+  ping_send = true
+}
+[496.000][21:13:41 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 496,
+  ping_send = false
+}
+[496.050][21:13:41 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 496.05,
+  ping_send = false
+}
+[495.950][21:13:41 10.09.2026][Main][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 495.95000000000005,
+  ping_send = false
+}
+[594.000][21:33:57 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 593,
+  ping_send = true
+}
+[594.050][21:33:57 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 593.05000000000007,
+  ping_send = true
+}
+[593.950][21:33:57 10.09.2026][Main][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 592.95,
+  ping_send = true
+}

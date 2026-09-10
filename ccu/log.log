@@ -3360,3 +3360,19 @@
 [0.000][21:13:52 10.09.2026][Display][DEBUG] Drawing buttons page 1
 [1.300][21:13:53 10.09.2026][App][INFO] Doors open done
 [5.100][21:13:57 10.09.2026][App][INFO] Doors close done
+[0.000][21:14:09 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][21:14:09 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][21:14:09 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][21:14:10 10.09.2026][App][INFO] Doors open done
+[10.600][21:14:19 10.09.2026][App][INFO] Doors close done
+[70.500][21:33:57 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 69.5,
+  ping_send = true
+}
