@@ -1,0 +1,3362 @@
+[5958.600][17:49:30 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5958.6,
+  ping_send = false
+}
+[5958.600][17:49:30 07.09.2026][Display][DEBUG] Page 1 paginated floors {
+  {
+    floor = 1,
+    floor_name = "G",
+    lcu_id = 7
+  },
+  {
+    floor = 3,
+    floor_name = "3",
+    lcu_id = 8
+  },
+  {
+    floor = 5,
+    floor_name = "5",
+    lcu_id = 0
+  },
+  {
+    floor = 6,
+    floor_name = "6",
+    lcu_id = 123
+  },
+  {
+    floor = 7,
+    floor_name = "7",
+    lcu_id = 123
+  },
+  {
+    floor = 8,
+    floor_name = "8",
+    lcu_id = 123
+  },
+  {
+    floor = 9,
+    floor_name = "9",
+    lcu_id = 123
+  },
+  {
+    floor = 10,
+    floor_name = "10",
+    lcu_id = 123
+  },
+  {
+    floor = 11,
+    floor_name = "11",
+    lcu_id = 123
+  },
+  {
+    floor = 12,
+    floor_name = "12",
+    lcu_id = 123
+  },
+  {
+    floor = 13,
+    floor_name = "13",
+    lcu_id = 123
+  },
+  {
+    floor = 14,
+    floor_name = "14",
+    lcu_id = 123
+  },
+  {
+    floor = 15,
+    floor_name = "15",
+    lcu_id = 123
+  },
+  {
+    floor = 16,
+    floor_name = "16",
+    lcu_id = 123
+  },
+  {
+    floor = 17,
+    floor_name = "17",
+    lcu_id = 123
+  },
+  {
+    floor = 18,
+    floor_name = "18",
+    lcu_id = 123
+  },
+  {
+    floor = 19,
+    floor_name = "19",
+    lcu_id = 123
+  },
+  {
+    floor = 20,
+    floor_name = "20",
+    lcu_id = 123
+  },
+  {
+    floor = 21,
+    floor_name = "21",
+    lcu_id = 123
+  },
+  {
+    floor = 22,
+    floor_name = "22",
+    lcu_id = 123
+  },
+  {
+    floor = 23,
+    floor_name = "23",
+    lcu_id = 123
+  },
+  {
+    floor = 24,
+    floor_name = "24",
+    lcu_id = 123
+  },
+  {
+    floor = 25,
+    floor_name = "25",
+    lcu_id = 123
+  },
+  {
+    floor = 26,
+    floor_name = "26",
+    lcu_id = 123
+  },
+  {
+    floor = 27,
+    floor_name = "27",
+    lcu_id = 123
+  },
+  {
+    floor = 28,
+    floor_name = "28",
+    lcu_id = 123
+  },
+  {
+    floor = 29,
+    floor_name = "29",
+    lcu_id = 123
+  },
+  {
+    floor = 30,
+    floor_name = "30",
+    lcu_id = 123
+  },
+  {
+    floor = 31,
+    floor_name = "31",
+    lcu_id = 123
+  },
+  {
+    floor = 32,
+    floor_name = "32",
+    lcu_id = 123
+  },
+  {
+    floor = 33,
+    floor_name = "33",
+    lcu_id = 123
+  },
+  {
+    floor = 34,
+    floor_name = "34",
+    lcu_id = 123
+  }
+}
+[5958.600][17:49:30 07.09.2026][Display][DEBUG] Page 2 paginated floors {
+  {
+    floor = 35,
+    floor_name = "35",
+    lcu_id = 123
+  },
+  {
+    floor = 36,
+    floor_name = "36",
+    lcu_id = 123
+  },
+  {
+    floor = 37,
+    floor_name = "37",
+    lcu_id = 123
+  },
+  {
+    floor = 38,
+    floor_name = "38",
+    lcu_id = 123
+  },
+  {
+    floor = 39,
+    floor_name = "39",
+    lcu_id = 123
+  },
+  {
+    floor = 40,
+    floor_name = "40",
+    lcu_id = 123
+  },
+  {
+    floor = 41,
+    floor_name = "41",
+    lcu_id = 123
+  },
+  {
+    floor = 42,
+    floor_name = "42",
+    lcu_id = 123
+  },
+  {
+    floor = 43,
+    floor_name = "43",
+    lcu_id = 123
+  },
+  {
+    floor = 44,
+    floor_name = "44",
+    lcu_id = 123
+  },
+  {
+    floor = 45,
+    floor_name = "45",
+    lcu_id = 123
+  },
+  {
+    floor = 46,
+    floor_name = "46",
+    lcu_id = 123
+  },
+  {
+    floor = 47,
+    floor_name = "47",
+    lcu_id = 123
+  },
+  {
+    floor = 48,
+    floor_name = "48",
+    lcu_id = 123
+  },
+  {
+    floor = 49,
+    floor_name = "49",
+    lcu_id = 123
+  },
+  {
+    floor = 50,
+    floor_name = "50",
+    lcu_id = 123
+  },
+  {
+    floor = 51,
+    floor_name = "51",
+    lcu_id = 123
+  },
+  {
+    floor = 52,
+    floor_name = "52",
+    lcu_id = 123
+  },
+  {
+    floor = 53,
+    floor_name = "53",
+    lcu_id = 123
+  },
+  {
+    floor = 54,
+    floor_name = "54",
+    lcu_id = 123
+  },
+  {
+    floor = 55,
+    floor_name = "55",
+    lcu_id = 123
+  },
+  {
+    floor = 56,
+    floor_name = "56",
+    lcu_id = 123
+  },
+  {
+    floor = 57,
+    floor_name = "57",
+    lcu_id = 123
+  },
+  {
+    floor = 58,
+    floor_name = "58",
+    lcu_id = 123
+  },
+  {
+    floor = 59,
+    floor_name = "59",
+    lcu_id = 123
+  },
+  {
+    floor = 60,
+    floor_name = "60",
+    lcu_id = 123
+  },
+  {
+    floor = 61,
+    floor_name = "61",
+    lcu_id = 123
+  },
+  {
+    floor = 62,
+    floor_name = "62",
+    lcu_id = 123
+  },
+  {
+    floor = 63,
+    floor_name = "63",
+    lcu_id = 123
+  },
+  {
+    floor = 64,
+    floor_name = "64",
+    lcu_id = 123
+  },
+  {
+    floor = 65,
+    floor_name = "65",
+    lcu_id = 123
+  },
+  {
+    floor = 66,
+    floor_name = "66",
+    lcu_id = 123
+  }
+}
+[6274.550][17:54:46 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6274.55,
+  ping_send = false
+}
+[6274.550][17:54:46 07.09.2026][Display][DEBUG] Floors updated
+[6283.250][17:54:55 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6283.25,
+  ping_send = false
+}
+[6283.250][17:54:55 07.09.2026][Display][DEBUG] Floors updated
+[6283.250][17:54:55 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[6298.050][17:55:09 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6298.05,
+  ping_send = false
+}
+[6298.050][17:55:09 07.09.2026][Display][DEBUG] Floors updated
+[6298.050][17:55:09 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[6326.900][17:55:38 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6326.9000000000005,
+  ping_send = false
+}
+[6326.900][17:55:38 07.09.2026][Display][DEBUG] Floors updated
+[6326.900][17:55:38 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[6365.850][17:56:17 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6365.85,
+  ping_send = false
+}
+[6365.850][17:56:17 07.09.2026][Display][DEBUG] Floors updated
+[6365.850][17:56:17 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[6404.300][17:56:56 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6404.3,
+  ping_send = false
+}
+[6404.300][17:56:56 07.09.2026][Display][DEBUG] Floors updated
+[6404.300][17:56:56 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[6420.800][17:57:12 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6420.8,
+  ping_send = false
+}
+[6420.800][17:57:12 07.09.2026][Display][DEBUG] Floors updated
+[6420.800][17:57:12 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[6441.050][17:57:32 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6441.05,
+  ping_send = false
+}
+[6441.050][17:57:32 07.09.2026][Display][DEBUG] Floors updated
+[6441.050][17:57:32 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7093.400][18:08:25 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7093.4000000000005,
+  ping_send = false
+}
+[7093.400][18:08:25 07.09.2026][Display][DEBUG] Floors updated, total pages 5
+[7093.400][18:08:25 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7095.400][18:08:27 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7099.200][18:08:30 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7100.650][18:08:32 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7102.650][18:08:34 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7109.450][18:08:41 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7110.400][18:08:42 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7111.150][18:08:42 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7111.700][18:08:43 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7116.050][18:08:47 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7116.250][18:08:47 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7116.450][18:08:48 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7116.650][18:08:48 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7119.900][18:08:51 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7120.150][18:08:51 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7120.350][18:08:52 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7120.700][18:08:52 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7121.250][18:08:52 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7121.750][18:08:53 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7122.550][18:08:54 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7123.250][18:08:54 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7123.550][18:08:55 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7125.550][18:08:57 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7125.750][18:08:57 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7125.950][18:08:57 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7128.600][18:09:00 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7129.150][18:09:00 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7130.500][18:09:02 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7132.100][18:09:03 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7133.250][18:09:04 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7135.200][18:09:06 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7136.350][18:09:08 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7137.850][18:09:09 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7141.300][18:09:13 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7144.450][18:09:16 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7145.850][18:09:17 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7147.100][18:09:18 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7181.100][18:09:52 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7181.1,
+  ping_send = false
+}
+[7181.100][18:09:52 07.09.2026][Display][DEBUG] Floors updated, total pages 5
+[7181.100][18:09:52 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7182.950][18:09:54 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7183.550][18:09:55 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7184.100][18:09:55 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7184.600][18:09:56 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7186.000][18:09:57 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7225.200][18:10:36 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7225.2000000000007,
+  ping_send = false
+}
+[7225.200][18:10:36 07.09.2026][Display][DEBUG] Floors updated, total pages 5
+[7225.200][18:10:36 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7226.400][18:10:38 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7226.800][18:10:38 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7227.050][18:10:38 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7227.400][18:10:39 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7282.750][18:11:34 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7282.75,
+  ping_send = false
+}
+[7282.750][18:11:34 07.09.2026][Display][DEBUG] Floors updated, total pages 5
+[7282.750][18:11:34 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7284.100][18:11:35 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7284.400][18:11:36 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7284.650][18:11:36 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7285.000][18:11:36 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7286.900][18:11:38 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7287.100][18:11:38 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7287.400][18:11:39 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7287.750][18:11:39 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7288.850][18:11:40 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7289.050][18:11:40 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7289.150][18:11:40 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7289.350][18:11:41 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7290.700][18:11:42 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7290.900][18:11:42 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7291.100][18:11:42 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7291.300][18:11:43 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7292.250][18:11:43 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7292.450][18:11:44 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7292.650][18:11:44 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7292.850][18:11:44 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7293.200][18:11:44 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7293.400][18:11:45 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7293.600][18:11:45 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7293.800][18:11:45 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7329.300][18:12:21 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7329.750][18:12:21 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7330.200][18:12:21 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7330.550][18:12:22 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7331.150][18:12:22 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7331.350][18:12:23 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7331.500][18:12:23 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7331.650][18:12:23 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7332.250][18:12:23 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7332.400][18:12:24 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7332.550][18:12:24 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7332.700][18:12:24 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7335.500][18:12:27 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7335.800][18:12:27 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7336.000][18:12:27 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7336.150][18:12:27 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7339.450][18:12:31 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7339.600][18:12:31 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7339.750][18:12:31 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7339.900][18:12:31 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7340.450][18:12:32 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7340.600][18:12:32 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7340.750][18:12:32 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7340.950][18:12:32 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7351.650][18:12:43 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7351.800][18:12:43 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7351.950][18:12:43 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7352.100][18:12:43 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7352.400][18:12:44 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7352.550][18:12:44 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7352.700][18:12:44 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7352.850][18:12:44 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7353.550][18:12:45 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7353.700][18:12:45 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7353.900][18:12:45 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7354.000][18:12:45 07.09.2026][Display][DEBUG] Drawing buttons page 5
+[7371.850][18:13:03 07.09.2026][Display][DEBUG] Drawing buttons page 4
+[7372.050][18:13:03 07.09.2026][Display][DEBUG] Drawing buttons page 3
+[7372.250][18:13:03 07.09.2026][Display][DEBUG] Drawing buttons page 2
+[7372.450][18:13:04 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[7385.350][18:13:17 07.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7384.35,
+  ping_send = true
+}
+[7385.350][18:13:17 07.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7385.35,
+  ping_send = false
+}
+[7385.350][18:13:17 07.09.2026][Display][DEBUG] Floors updated, total pages 1
+[7385.350][18:13:17 07.09.2026][Display][DEBUG] Drawing buttons page 1
+[232.300][10:26:05 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 232.3,
+  ping_send = false
+}
+[232.300][10:26:05 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[232.300][10:26:05 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[232.800][10:26:06 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[232.800][10:26:06 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[668.800][10:33:22 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 667.80000000000007,
+  ping_send = true
+}
+[669.800][10:33:23 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 669.80000000000007,
+  ping_send = false
+}
+[669.800][10:33:23 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[669.800][10:33:23 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[4625.650][11:39:20 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 4625.6500000000005,
+  ping_send = false
+}
+[4625.650][11:39:20 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[4625.650][11:39:20 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[4630.250][11:39:25 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 4629.25,
+  ping_send = true
+}
+[4630.250][11:39:25 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 4630.25,
+  ping_send = false
+}
+[4630.250][11:39:25 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[4630.250][11:39:25 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[4630.300][11:39:25 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[4630.300][11:39:25 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[4703.350][11:40:38 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 4703.35,
+  ping_send = false
+}
+[4703.350][11:40:38 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[4703.350][11:40:38 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[4707.500][11:40:42 08.09.2026][App][INFO] Doors open done
+[5123.600][11:47:38 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5123.6,
+  ping_send = false
+}
+[5123.600][11:47:38 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[5123.600][11:47:38 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[5128.050][11:47:43 08.09.2026][App][INFO] Doors open done
+[5445.850][11:53:00 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5445.85,
+  ping_send = false
+}
+[5445.850][11:53:00 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[5445.850][11:53:00 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[5449.700][11:53:04 08.09.2026][App][INFO] Doors open done
+[6639.200][12:12:54 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6639.2000000000007,
+  ping_send = false
+}
+[6639.200][12:12:54 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[6639.200][12:12:54 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[6650.100][12:13:05 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6649.1,
+  ping_send = true
+}
+[6650.100][12:13:05 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6650.1,
+  ping_send = false
+}
+[6650.100][12:13:05 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[6650.100][12:13:05 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[6650.150][12:13:05 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[6650.150][12:13:05 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[6701.050][12:13:56 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6701.05,
+  ping_send = false
+}
+[6701.050][12:13:56 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[6701.050][12:13:56 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[6705.350][12:14:00 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6704.35,
+  ping_send = true
+}
+[6705.350][12:14:00 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6705.35,
+  ping_send = false
+}
+[6705.350][12:14:00 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[6705.350][12:14:00 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[6710.200][12:14:05 08.09.2026][App][INFO] Doors close done
+[6713.700][12:14:08 08.09.2026][App][INFO] Doors open done
+[6718.800][12:14:13 08.09.2026][App][INFO] Doors close done
+[6737.250][12:14:32 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6737.25,
+  ping_send = false
+}
+[6737.250][12:14:32 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[6737.250][12:14:32 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[6740.300][12:14:35 08.09.2026][App][INFO] Doors open done
+[6742.550][12:14:37 08.09.2026][App][INFO] Doors close done
+[6745.000][12:14:40 08.09.2026][App][INFO] Doors open done
+[6751.250][12:14:46 08.09.2026][App][INFO] Doors close done
+[6763.100][12:14:58 08.09.2026][App][INFO] Doors open done
+[6765.450][12:15:00 08.09.2026][App][INFO] Doors close done
+[6942.600][12:17:57 08.09.2026][App][INFO] Doors open done
+[6945.650][12:18:00 08.09.2026][App][INFO] Doors close done
+[6948.650][12:18:03 08.09.2026][App][INFO] Doors open done
+[6954.750][12:18:09 08.09.2026][App][INFO] Doors close done
+[8425.650][15:04:46 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 8424.65,
+  ping_send = true
+}
+[8426.650][15:04:47 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 8426.65,
+  ping_send = false
+}
+[8426.650][15:04:47 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[8426.650][15:04:47 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[8475.550][15:05:35 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 8474.5500000000011,
+  ping_send = true
+}
+[9172.550][15:37:53 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 9172.5500000000011,
+  ping_send = false
+}
+[9172.550][15:37:53 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[9172.550][15:37:53 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[9213.450][15:38:33 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 9212.45,
+  ping_send = true
+}
+[9266.450][15:39:26 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 9266.45,
+  ping_send = false
+}
+[9266.450][15:39:26 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[9266.450][15:39:26 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[9447.150][15:42:27 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 9446.15,
+  ping_send = true
+}
+[9751.150][15:47:31 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 9751.15,
+  ping_send = false
+}
+[9751.150][15:47:31 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[9751.150][15:47:31 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[11773.650][16:21:14 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 11772.650000000001,
+  ping_send = true
+}
+[11774.650][16:21:15 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 11774.650000000001,
+  ping_send = false
+}
+[11774.650][16:21:15 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[11774.650][16:21:15 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[11774.700][16:21:15 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[11774.700][16:21:15 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[9.450][16:21:32 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 9.4500000000000011,
+  ping_send = false
+}
+[9.450][16:21:32 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[9.450][16:21:32 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[22.350][16:21:45 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 21.35,
+  ping_send = true
+}
+[36.350][16:21:59 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 36.35,
+  ping_send = false
+}
+[36.350][16:21:59 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[36.350][16:21:59 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[18.550][16:23:12 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 18.55,
+  ping_send = false
+}
+[18.550][16:23:12 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[18.550][16:23:12 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[28.350][16:23:22 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 27.35,
+  ping_send = true
+}
+[34.350][16:23:28 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 34.35,
+  ping_send = false
+}
+[34.350][16:23:28 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[34.350][16:23:28 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:25:29 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:25:29 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:25:29 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[14.300][16:25:44 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 13.3,
+  ping_send = true
+}
+[2.000][16:42:59 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 2,
+  ping_send = false
+}
+[2.000][16:42:59 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[2.000][16:42:59 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.750][16:43:00 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[2.750][16:43:00 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[6.800][16:43:04 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5.8000000000000007,
+  ping_send = true
+}
+[53.800][16:43:51 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 53.800000000000004,
+  ping_send = false
+}
+[53.800][16:43:51 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[53.800][16:43:51 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[55.900][16:43:53 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 54.900000000000006,
+  ping_send = true
+}
+[73.900][16:44:11 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 73.9,
+  ping_send = false
+}
+[73.900][16:44:11 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[73.900][16:44:11 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[73.950][16:44:11 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[73.950][16:44:11 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:44:19 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:44:19 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:44:19 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[79.000][16:45:38 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 78,
+  ping_send = true
+}
+[142.000][16:48:06 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 142,
+  ping_send = false
+}
+[142.000][16:48:06 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[142.000][16:48:06 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:48:21 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:48:21 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:48:21 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:48:33 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:48:33 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:48:33 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:48:49 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:48:49 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:48:49 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:49:06 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:49:06 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:49:06 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:49:28 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:49:28 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:49:28 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:50:06 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:50:06 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:50:06 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:50:55 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:50:55 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:50:55 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[31.000][16:51:26 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 30,
+  ping_send = true
+}
+[560.000][17:01:39 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 560,
+  ping_send = false
+}
+[560.000][17:01:39 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[560.000][17:01:39 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[560.100][17:01:39 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[560.100][17:01:39 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][17:01:49 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:01:49 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:01:49 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:01:51 08.09.2026][App][INFO] Doors open done
+[6.900][17:01:55 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5.9,
+  ping_send = true
+}
+[357.000][17:07:59 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 357,
+  ping_send = false
+}
+[357.000][17:07:59 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[357.000][17:07:59 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][17:08:13 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:08:13 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:08:13 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:08:15 08.09.2026][App][INFO] Doors open done
+[0.000][17:08:28 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:08:28 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:08:28 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:08:31 08.09.2026][App][INFO] Doors open done
+[10.600][17:08:39 08.09.2026][App][INFO] Doors close done
+[21.450][17:08:50 08.09.2026][App][INFO] Doors open done
+[29.650][17:08:58 08.09.2026][App][INFO] Doors close done
+[0.000][17:09:14 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:09:14 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:09:14 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:09:16 08.09.2026][App][INFO] Doors open done
+[10.600][17:09:25 08.09.2026][App][INFO] Doors close done
+[0.000][17:09:39 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:09:39 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:09:39 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:09:42 08.09.2026][App][INFO] Doors open done
+[10.600][17:09:50 08.09.2026][App][INFO] Doors close done
+[33.250][17:10:13 08.09.2026][App][INFO] Doors open done
+[0.000][17:10:31 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:10:31 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:10:31 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:10:34 08.09.2026][App][INFO] Doors open done
+[10.600][17:10:42 08.09.2026][App][INFO] Doors close done
+[205.900][17:13:57 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 204.9,
+  ping_send = true
+}
+[205.900][17:13:57 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 205.9,
+  ping_send = false
+}
+[205.900][17:13:57 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[205.900][17:13:57 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[205.950][17:13:57 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[205.950][17:13:57 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][17:14:10 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:14:10 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:14:10 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.100][17:14:12 08.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1.1,
+  ping_send = true
+}
+[2.450][17:14:12 08.09.2026][App][INFO] Doors open done
+[20.000][17:15:17 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 20,
+  ping_send = false
+}
+[20.000][17:15:17 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[20.000][17:15:17 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][17:15:30 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:15:30 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:15:30 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:15:32 08.09.2026][App][INFO] Doors open done
+[11.900][17:15:42 08.09.2026][App][INFO] Doors close done
+[0.000][17:15:53 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:15:53 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:15:53 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:15:56 08.09.2026][App][INFO] Doors open done
+[11.900][17:16:05 08.09.2026][App][INFO] Doors close done
+[0.000][17:16:12 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:16:12 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:16:12 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:16:14 08.09.2026][App][INFO] Doors open done
+[11.900][17:16:23 08.09.2026][App][INFO] Doors close done
+[0.000][17:16:29 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:16:29 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:16:29 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[7.900][17:16:37 08.09.2026][App][INFO] Doors open done
+[17.400][17:16:47 08.09.2026][App][INFO] Doors close done
+[0.000][17:18:07 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:18:07 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:18:07 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][17:18:10 08.09.2026][App][INFO] Doors open done
+[11.900][17:18:19 08.09.2026][App][INFO] Doors close done
+[72.400][19:41:31 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 72.4,
+  ping_send = false
+}
+[72.400][19:41:31 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[72.400][19:41:31 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[93.100][19:41:52 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[93.100][19:41:52 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][19:42:09 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:42:09 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:42:09 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][19:42:12 08.09.2026][App][INFO] Doors open done
+[11.900][19:42:21 08.09.2026][App][INFO] Doors close done
+[0.000][19:42:36 08.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:42:36 08.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:42:36 08.09.2026][Display][DEBUG] Drawing buttons page 1
+[2.400][19:42:39 08.09.2026][App][INFO] Doors open done
+[11.900][19:42:48 08.09.2026][App][INFO] Doors close done
+[676.500][12:01:06 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 676.5,
+  ping_send = false
+}
+[676.500][12:01:06 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[676.500][12:01:06 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[676.550][12:01:06 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[676.550][12:01:06 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[677.500][12:01:07 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 676.5,
+  ping_send = true
+}
+[721.500][12:01:51 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 721.5,
+  ping_send = false
+}
+[721.500][12:01:51 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[721.500][12:01:51 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[721.550][12:01:51 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[721.550][12:01:51 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[736.000][12:02:05 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 735,
+  ping_send = true
+}
+[760.000][12:02:29 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 760,
+  ping_send = false
+}
+[760.000][12:02:29 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[760.000][12:02:29 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[760.050][12:02:29 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[760.050][12:02:29 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[783.500][12:02:53 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 782.5,
+  ping_send = true
+}
+[792.500][12:03:02 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 792.5,
+  ping_send = false
+}
+[792.500][12:03:02 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[792.500][12:03:02 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[797.500][12:03:07 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 796.5,
+  ping_send = true
+}
+[951.500][12:05:41 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 951.5,
+  ping_send = false
+}
+[951.500][12:05:41 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[951.500][12:05:41 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[1226.600][12:50:25 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1225.6000000000001,
+  ping_send = true
+}
+[1226.600][12:50:25 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1226.6000000000001,
+  ping_send = false
+}
+[1226.600][12:50:25 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[1226.600][12:50:25 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[1226.650][12:50:25 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[1226.650][12:50:25 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[2641.200][13:14:00 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 2640.2000000000003,
+  ping_send = true
+}
+[2652.200][13:14:11 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 2652.2000000000003,
+  ping_send = false
+}
+[2652.200][13:14:11 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[2652.200][13:14:11 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[2750.400][13:15:49 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 2749.4,
+  ping_send = true
+}
+[5832.400][14:08:31 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5832.4000000000005,
+  ping_send = false
+}
+[5832.400][14:08:31 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[5832.400][14:08:31 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:08:45 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:08:45 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:08:45 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:08:53 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:08:53 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:08:53 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[10.700][14:09:04 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 9.7000000000000011,
+  ping_send = true
+}
+[47.000][14:09:56 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 47,
+  ping_send = false
+}
+[47.000][14:09:56 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[47.000][14:09:56 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:10:14 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:10:14 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:10:14 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:10:24 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:10:24 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:10:24 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[71.900][14:11:36 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 70.9,
+  ping_send = true
+}
+[621.000][14:22:06 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 621,
+  ping_send = false
+}
+[621.000][14:22:06 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[621.000][14:22:06 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:22:33 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:22:33 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:22:33 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:23:25 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:23:25 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:23:25 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[3.100][14:23:28 09.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 2.1,
+  ping_send = true
+}
+[5.100][14:23:30 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5.1000000000000005,
+  ping_send = false
+}
+[5.100][14:23:30 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[5.100][14:23:30 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[5.150][14:23:30 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[5.150][14:23:30 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:23:43 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:23:43 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:23:43 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:23:49 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:23:49 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:23:49 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:23:55 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:23:55 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:23:55 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][14:24:02 09.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][14:24:02 09.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][14:24:02 09.09.2026][Display][DEBUG] Drawing buttons page 1
+[133.500][13:12:40 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 133.5,
+  ping_send = false
+}
+[133.500][13:12:40 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[133.500][13:12:40 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[133.850][13:12:40 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[133.850][13:12:40 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1244.300][13:43:27 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1243.3000000000002,
+  ping_send = true
+}
+[1244.300][13:43:27 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1244.3000000000002,
+  ping_send = false
+}
+[1244.300][13:43:27 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[1244.300][13:43:27 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1244.350][13:43:27 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[1244.350][13:43:27 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][13:43:44 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][13:43:44 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][13:43:44 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][13:43:52 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][13:43:52 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][13:43:52 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][13:44:10 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][13:44:10 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][13:44:10 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[29.800][13:44:40 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 28.8,
+  ping_send = true
+}
+[29.800][13:44:40 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 29.8,
+  ping_send = false
+}
+[29.800][13:44:40 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[29.800][13:44:40 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][13:44:58 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][13:44:58 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][13:44:58 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][13:45:05 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][13:45:05 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][13:45:05 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[9.400][13:45:14 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 8.4,
+  ping_send = true
+}
+[33.250][15:25:36 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 33.25,
+  ping_send = false
+}
+[33.250][15:25:36 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[33.250][15:25:36 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[38.650][15:25:42 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 37.65,
+  ping_send = true
+}
+[73.650][15:26:17 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 73.65,
+  ping_send = false
+}
+[73.650][15:26:17 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[73.650][15:26:17 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[73.800][15:26:17 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[73.800][15:26:17 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[76.750][15:26:20 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 75.75,
+  ping_send = true
+}
+[88.750][15:26:32 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 88.75,
+  ping_send = false
+}
+[88.750][15:26:32 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[88.750][15:26:32 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[88.800][15:26:32 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[88.800][15:26:32 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[94.350][15:26:37 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 93.350000000000009,
+  ping_send = true
+}
+[129.450][15:27:12 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 129.45000000000002,
+  ping_send = false
+}
+[129.450][15:27:12 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[129.450][15:27:12 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:27:39 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:27:39 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:27:39 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:27:45 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:27:45 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:27:45 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:27:55 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:27:55 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:27:55 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[262.400][15:32:17 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 261.40000000000003,
+  ping_send = true
+}
+[263.400][15:32:18 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 263.40000000000003,
+  ping_send = false
+}
+[263.400][15:32:18 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[263.400][15:32:18 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[263.450][15:32:19 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[263.450][15:32:19 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[267.700][15:32:23 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 266.7,
+  ping_send = true
+}
+[278.700][15:32:34 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 278.7,
+  ping_send = false
+}
+[278.700][15:32:34 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[278.700][15:32:34 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[278.750][15:32:34 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[278.750][15:32:34 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[283.500][15:32:39 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 282.5,
+  ping_send = true
+}
+[298.500][15:32:54 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 298.5,
+  ping_send = false
+}
+[298.500][15:32:54 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[298.500][15:32:54 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[298.500][15:32:54 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[298.500][15:32:54 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[311.500][15:33:07 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 310.5,
+  ping_send = true
+}
+[594.500][15:37:50 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 594.5,
+  ping_send = false
+}
+[594.500][15:37:50 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[594.500][15:37:50 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[594.550][15:37:50 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[594.550][15:37:50 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[599.400][15:37:54 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 598.4,
+  ping_send = true
+}
+[612.400][15:38:07 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 612.4,
+  ping_send = false
+}
+[612.400][15:38:07 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[612.400][15:38:07 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[612.450][15:38:08 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[612.450][15:38:08 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:38:29 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:38:29 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:38:29 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:38:35 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:38:35 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:38:35 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:38:42 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:38:42 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:38:42 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:38:52 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:38:52 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:38:52 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][15:39:04 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][15:39:04 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][15:39:04 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[4.400][15:39:08 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 3.3000000000000003,
+  ping_send = true
+}
+[511.500][15:47:35 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 511.5,
+  ping_send = false
+}
+[511.500][15:47:35 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[511.500][15:47:35 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[596.400][16:00:02 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 595.4,
+  ping_send = true
+}
+[596.400][16:00:02 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 596.4,
+  ping_send = false
+}
+[596.400][16:00:02 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[596.400][16:00:02 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[596.400][16:00:02 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[596.400][16:00:02 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:00:10 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:00:10 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:00:10 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:00:16 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:00:16 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:00:16 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:00:32 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:00:32 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:00:32 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[8.300][16:00:41 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7.3000000000000007,
+  ping_send = true
+}
+[353.400][16:06:26 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 353.40000000000003,
+  ping_send = false
+}
+[353.400][16:06:26 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[353.400][16:06:26 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[360.500][16:06:33 10.09.2026][App][INFO] Doors open done
+[369.800][16:06:42 10.09.2026][App][INFO] Doors close done
+[0.000][16:06:54 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:06:54 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:06:54 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:06:55 10.09.2026][App][INFO] Doors open done
+[10.600][16:07:04 10.09.2026][App][INFO] Doors close done
+[156.700][16:09:30 10.09.2026][App][INFO] Doors open done
+[166.000][16:09:40 10.09.2026][App][INFO] Doors close done
+[0.000][16:09:51 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:09:51 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:09:51 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:09:52 10.09.2026][App][INFO] Doors open done
+[10.600][16:10:02 10.09.2026][App][INFO] Doors close done
+[308.800][16:15:28 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 307.8,
+  ping_send = true
+}
+[308.800][16:15:28 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 308.8,
+  ping_send = false
+}
+[308.800][16:15:28 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[308.800][16:15:28 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[308.850][16:15:28 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[308.850][16:15:28 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[325.400][16:15:45 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 324.40000000000003,
+  ping_send = true
+}
+[490.400][16:18:30 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 490.40000000000003,
+  ping_send = false
+}
+[490.400][16:18:30 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[490.400][16:18:30 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[494.450][16:18:34 10.09.2026][App][INFO] Doors open done
+[497.650][16:18:37 10.09.2026][App][INFO] Doors close done
+[0.000][16:18:49 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:18:49 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:18:49 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:18:50 10.09.2026][App][INFO] Doors open done
+[3.700][16:18:52 10.09.2026][App][INFO] Doors close done
+[6.100][16:18:55 10.09.2026][App][INFO] Doors open done
+[10.700][16:18:59 10.09.2026][App][INFO] Doors close done
+[128.300][16:20:57 10.09.2026][App][INFO] Doors open done
+[130.700][16:20:59 10.09.2026][App][INFO] Doors close done
+[134.200][16:21:03 10.09.2026][App][INFO] Doors open done
+[136.200][16:21:05 10.09.2026][App][INFO] Doors close done
+[139.400][16:21:08 10.09.2026][App][INFO] Doors open done
+[141.800][16:21:10 10.09.2026][App][INFO] Doors close done
+[0.000][16:21:24 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:21:24 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:21:24 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:21:25 10.09.2026][App][INFO] Doors open done
+[10.600][16:21:34 10.09.2026][App][INFO] Doors close done
+[25.600][16:21:49 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 24.6,
+  ping_send = true
+}
+[62.600][16:22:26 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 62.6,
+  ping_send = false
+}
+[62.600][16:22:26 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[62.600][16:22:26 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[91.650][16:22:55 10.09.2026][App][INFO] Doors open done
+[95.450][16:22:59 10.09.2026][App][INFO] Doors close done
+[194.900][16:24:38 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 193.9,
+  ping_send = true
+}
+[194.900][16:24:38 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 194.9,
+  ping_send = false
+}
+[194.900][16:24:38 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[194.900][16:24:38 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[194.950][16:24:38 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[194.950][16:24:38 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[198.550][16:24:42 10.09.2026][App][INFO] Doors open done
+[207.800][16:24:51 10.09.2026][App][INFO] Doors close done
+[0.000][16:24:58 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:24:58 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:24:58 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:24:59 10.09.2026][App][INFO] Doors open done
+[10.600][16:25:08 10.09.2026][App][INFO] Doors close done
+[0.000][16:25:16 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:25:16 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:25:16 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:25:17 10.09.2026][App][INFO] Doors open done
+[10.600][16:25:26 10.09.2026][App][INFO] Doors close done
+[52.500][16:26:08 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 51.5,
+  ping_send = true
+}
+[52.500][16:26:08 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 52.5,
+  ping_send = false
+}
+[52.500][16:26:08 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[52.500][16:26:08 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[52.550][16:26:08 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[52.550][16:26:08 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[60.200][16:26:16 10.09.2026][App][INFO] Doors open done
+[69.500][16:26:25 10.09.2026][App][INFO] Doors close done
+[0.000][16:26:31 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:26:31 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:26:31 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:26:33 10.09.2026][App][INFO] Doors open done
+[10.600][16:26:42 10.09.2026][App][INFO] Doors close done
+[0.000][16:27:57 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:27:57 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:27:57 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:27:59 10.09.2026][App][INFO] Doors open done
+[4.500][16:28:02 10.09.2026][App][INFO] Doors close done
+[7.300][16:28:05 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 6.3000000000000007,
+  ping_send = true
+}
+[11.300][16:28:09 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 11.3,
+  ping_send = false
+}
+[11.300][16:28:09 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[11.300][16:28:09 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[17.250][16:28:15 10.09.2026][App][INFO] Doors open done
+[26.550][16:28:24 10.09.2026][App][INFO] Doors close done
+[0.000][16:28:30 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:28:30 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:28:30 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:28:37 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:28:37 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:28:37 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:28:38 10.09.2026][App][INFO] Doors open done
+[10.600][16:28:47 10.09.2026][App][INFO] Doors close done
+[96.100][16:30:13 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 95.100000000000009,
+  ping_send = true
+}
+[97.100][16:30:14 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 97.100000000000009,
+  ping_send = false
+}
+[97.100][16:30:14 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[97.100][16:30:14 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[97.150][16:30:14 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[97.150][16:30:14 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[100.700][16:30:17 10.09.2026][App][INFO] Doors open done
+[110.000][16:30:27 10.09.2026][App][INFO] Doors close done
+[0.000][16:30:33 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:30:33 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:30:33 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:30:39 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:30:39 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:30:39 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:30:41 10.09.2026][App][INFO] Doors open done
+[10.600][16:30:50 10.09.2026][App][INFO] Doors close done
+[22.100][16:31:02 10.09.2026][App][INFO] Doors open done
+[24.900][16:31:04 10.09.2026][App][INFO] Doors close done
+[0.000][16:31:11 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:31:11 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:31:11 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:31:17 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:31:17 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:31:17 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:31:18 10.09.2026][App][INFO] Doors open done
+[10.600][16:31:28 10.09.2026][App][INFO] Doors close done
+[0.000][16:33:34 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:33:34 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:33:34 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:33:35 10.09.2026][App][INFO] Doors open done
+[3.000][16:33:37 10.09.2026][App][INFO] Doors close done
+[5.100][16:33:39 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 4.1000000000000005,
+  ping_send = true
+}
+[5.100][16:33:39 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5.1000000000000005,
+  ping_send = false
+}
+[5.100][16:33:39 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[5.100][16:33:39 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[13.550][16:33:48 10.09.2026][App][INFO] Doors open done
+[22.850][16:33:57 10.09.2026][App][INFO] Doors close done
+[0.000][16:34:03 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:34:03 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:34:03 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:34:10 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:34:10 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:34:10 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:34:11 10.09.2026][App][INFO] Doors open done
+[10.600][16:34:20 10.09.2026][App][INFO] Doors close done
+[219.700][16:37:49 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 218.70000000000002,
+  ping_send = true
+}
+[219.700][16:37:49 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 219.70000000000002,
+  ping_send = false
+}
+[219.700][16:37:49 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[219.700][16:37:49 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[225.650][16:37:55 10.09.2026][App][INFO] Doors open done
+[234.950][16:38:05 10.09.2026][App][INFO] Doors close done
+[0.000][16:38:11 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:38:11 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:38:11 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[4.500][16:38:15 10.09.2026][App][INFO] Doors open done
+[13.800][16:38:25 10.09.2026][App][INFO] Doors close done
+[0.000][16:38:31 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:38:31 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:38:31 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:38:32 10.09.2026][App][INFO] Doors open done
+[10.600][16:38:42 10.09.2026][App][INFO] Doors close done
+[0.000][16:38:48 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:38:48 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:38:48 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:38:49 10.09.2026][App][INFO] Doors open done
+[10.600][16:38:59 10.09.2026][App][INFO] Doors close done
+[0.000][16:39:10 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:39:10 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:39:10 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:39:11 10.09.2026][App][INFO] Doors open done
+[10.600][16:39:21 10.09.2026][App][INFO] Doors close done
+[0.000][16:39:32 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:39:32 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:39:32 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:39:33 10.09.2026][App][INFO] Doors open done
+[5.900][16:39:38 10.09.2026][App][INFO] Doors close done
+[62.900][16:40:35 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 61.900000000000006,
+  ping_send = true
+}
+[62.900][16:40:35 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 62.900000000000006,
+  ping_send = false
+}
+[62.900][16:40:35 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[62.900][16:40:35 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:40:44 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:40:44 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:40:44 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:40:45 10.09.2026][App][INFO] Doors open done
+[10.600][16:40:54 10.09.2026][App][INFO] Doors close done
+[0.000][16:41:01 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:41:01 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:41:01 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:41:02 10.09.2026][App][INFO] Doors open done
+[10.600][16:41:11 10.09.2026][App][INFO] Doors close done
+[0.000][16:41:18 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:41:18 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:41:18 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:41:19 10.09.2026][App][INFO] Doors open done
+[10.600][16:41:28 10.09.2026][App][INFO] Doors close done
+[71.400][16:42:29 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 70.4,
+  ping_send = true
+}
+[4.000][16:42:35 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 4,
+  ping_send = false
+}
+[4.000][16:42:35 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[4.000][16:42:35 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[4.700][16:42:36 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[4.700][16:42:36 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][16:42:54 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:42:54 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:42:54 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:42:55 10.09.2026][App][INFO] Doors open done
+[6.300][16:43:00 10.09.2026][App][INFO] Doors close done
+[0.000][16:43:07 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:43:07 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:43:07 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:43:08 10.09.2026][App][INFO] Doors open done
+[3.000][16:43:10 10.09.2026][App][INFO] Doors close done
+[0.000][16:43:16 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:43:16 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:43:16 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:43:17 10.09.2026][App][INFO] Doors open done
+[3.800][16:43:20 10.09.2026][App][INFO] Doors close done
+[0.000][16:43:31 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:43:31 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:43:31 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:43:33 10.09.2026][App][INFO] Doors open done
+[10.600][16:43:42 10.09.2026][App][INFO] Doors close done
+[0.000][16:43:53 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:43:53 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:43:53 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:43:55 10.09.2026][App][INFO] Doors open done
+[10.600][16:44:04 10.09.2026][App][INFO] Doors close done
+[0.000][16:44:21 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:44:21 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:44:21 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:44:22 10.09.2026][App][INFO] Doors open done
+[6.400][16:44:27 10.09.2026][App][INFO] Doors close done
+[0.000][16:44:43 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:44:43 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:44:43 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:44:44 10.09.2026][App][INFO] Doors open done
+[10.600][16:44:54 10.09.2026][App][INFO] Doors close done
+[17.400][16:45:01 10.09.2026][App][INFO] Doors open done
+[26.700][16:45:10 10.09.2026][App][INFO] Doors close done
+[119.100][16:46:42 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 118.10000000000001,
+  ping_send = true
+}
+[765.300][16:57:28 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 765.30000000000007,
+  ping_send = false
+}
+[765.300][16:57:28 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[765.300][16:57:28 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[766.150][16:57:29 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[766.150][16:57:29 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[767.100][16:57:30 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 766.1,
+  ping_send = true
+}
+[777.100][16:57:40 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 777.1,
+  ping_send = false
+}
+[777.100][16:57:40 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[777.100][16:57:40 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[777.150][16:57:40 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[777.150][16:57:40 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[790.900][16:57:54 10.09.2026][App][INFO] Doors open done
+[800.200][16:58:03 10.09.2026][App][INFO] Doors close done
+[807.500][16:58:11 10.09.2026][App][INFO] Doors open done
+[816.800][16:58:20 10.09.2026][App][INFO] Doors close done
+[0.000][16:58:26 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:58:26 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:58:26 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:58:28 10.09.2026][App][INFO] Doors open done
+[10.600][16:58:37 10.09.2026][App][INFO] Doors close done
+[0.000][16:58:43 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:58:43 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:58:43 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:58:45 10.09.2026][App][INFO] Doors open done
+[10.600][16:58:54 10.09.2026][App][INFO] Doors close done
+[0.000][16:59:05 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][16:59:05 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][16:59:05 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][16:59:07 10.09.2026][App][INFO] Doors open done
+[10.600][16:59:16 10.09.2026][App][INFO] Doors close done
+[28.700][16:59:34 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 27.700000000000003,
+  ping_send = true
+}
+[158.700][17:01:44 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 158.70000000000002,
+  ping_send = false
+}
+[158.700][17:01:44 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[158.700][17:01:44 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][17:01:58 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:01:58 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:01:58 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:01:59 10.09.2026][App][INFO] Doors open done
+[4.400][17:02:02 10.09.2026][App][INFO] Doors close done
+[0.000][17:02:09 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:02:09 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:02:09 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:02:10 10.09.2026][App][INFO] Doors open done
+[10.600][17:02:19 10.09.2026][App][INFO] Doors close done
+[0.000][17:02:31 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:02:31 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:02:31 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:02:32 10.09.2026][App][INFO] Doors open done
+[10.600][17:02:41 10.09.2026][App][INFO] Doors close done
+[40.500][17:03:11 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 39.5,
+  ping_send = true
+}
+[47.500][17:03:18 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 47.5,
+  ping_send = false
+}
+[47.500][17:03:18 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[47.500][17:03:18 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][17:03:34 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:03:34 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:03:34 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:03:35 10.09.2026][App][INFO] Doors open done
+[10.600][17:03:44 10.09.2026][App][INFO] Doors close done
+[0.000][17:03:56 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:03:56 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:03:56 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:03:57 10.09.2026][App][INFO] Doors open done
+[10.600][17:04:06 10.09.2026][App][INFO] Doors close done
+[0.000][17:04:13 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:04:13 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:04:13 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:04:14 10.09.2026][App][INFO] Doors open done
+[9.900][17:04:23 10.09.2026][App][INFO] Doors close done
+[0.000][17:04:29 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:04:29 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:04:29 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:04:30 10.09.2026][App][INFO] Doors open done
+[10.600][17:04:40 10.09.2026][App][INFO] Doors close done
+[17.000][17:04:46 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 16,
+  ping_send = true
+}
+[1606.000][17:31:15 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1606,
+  ping_send = false
+}
+[1606.000][17:31:15 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[1606.000][17:31:15 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1606.050][17:31:15 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[1606.050][17:31:15 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1613.700][17:31:23 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1612.7,
+  ping_send = true
+}
+[1801.700][17:34:31 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 1801.7,
+  ping_send = false
+}
+[1801.700][17:34:31 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[1801.700][17:34:31 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][17:34:42 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:34:42 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:34:42 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:34:43 10.09.2026][App][INFO] Doors open done
+[4.200][17:34:46 10.09.2026][App][INFO] Doors open done
+[13.500][17:34:55 10.09.2026][App][INFO] Doors close done
+[0.000][17:35:02 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:35:02 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:35:02 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:35:03 10.09.2026][App][INFO] Doors open done
+[7.600][17:35:09 10.09.2026][App][INFO] Doors close done
+[0.000][17:35:21 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:35:21 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:35:21 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:35:22 10.09.2026][App][INFO] Doors open done
+[10.600][17:35:32 10.09.2026][App][INFO] Doors close done
+[0.000][17:35:45 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:35:45 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:35:45 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:35:46 10.09.2026][App][INFO] Doors open done
+[6.300][17:35:51 10.09.2026][App][INFO] Doors close done
+[9.800][17:35:55 10.09.2026][App][INFO] Doors open done
+[12.900][17:35:58 10.09.2026][App][INFO] Doors close done
+[0.000][17:36:09 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][17:36:09 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][17:36:09 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][17:36:10 10.09.2026][App][INFO] Doors open done
+[3.200][17:36:12 10.09.2026][App][INFO] Doors close done
+[9.900][17:36:19 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 8.9,
+  ping_send = true
+}
+[74.000][18:17:58 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 74,
+  ping_send = false
+}
+[74.000][18:17:58 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[74.000][18:17:58 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[230.550][18:20:34 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 230.55,
+  ping_send = false
+}
+[230.550][18:20:34 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[230.550][18:20:34 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[230.550][18:20:34 10.09.2026][Display][DEBUG] {}
+[235.350][18:20:39 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 234.35000000000002,
+  ping_send = true
+}
+[239.350][18:20:43 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 239.35000000000002,
+  ping_send = false
+}
+[239.350][18:20:43 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[239.350][18:20:43 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[239.350][18:20:43 10.09.2026][Display][DEBUG] 
+[318.750][18:22:02 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 318.75,
+  ping_send = false
+}
+[318.750][18:22:02 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[318.750][18:22:02 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[318.750][18:22:02 10.09.2026][Display][DEBUG] {}
+[322.050][18:22:06 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 321.05,
+  ping_send = true
+}
+[322.050][18:22:06 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 322.05,
+  ping_send = false
+}
+[322.050][18:22:06 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[322.050][18:22:06 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[322.050][18:22:06 10.09.2026][Display][DEBUG] 
+[322.100][18:22:06 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[322.100][18:22:06 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[322.100][18:22:06 10.09.2026][Display][DEBUG] {}
+[329.900][18:22:14 10.09.2026][Display][DEBUG] {}
+[330.950][18:22:15 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 329.95000000000005,
+  ping_send = true
+}
+[415.950][18:23:40 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 415.95000000000005,
+  ping_send = false
+}
+[415.950][18:23:40 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[415.950][18:23:40 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[415.950][18:23:40 10.09.2026][Display][DEBUG] {}
+[417.550][18:23:41 10.09.2026][Display][DEBUG] {}
+[418.900][18:23:43 10.09.2026][App][INFO] Doors open done
+[419.550][18:23:43 10.09.2026][Display][DEBUG] {
+  [3] = true
+}
+[420.100][18:23:44 10.09.2026][Display][DEBUG] {
+  true,
+  [3] = true
+}
+[428.200][18:23:52 10.09.2026][App][INFO] Doors close done
+[0.000][18:23:58 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:23:58 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:23:58 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][18:23:58 10.09.2026][Display][DEBUG] {
+  true,
+  [3] = true
+}
+[0.050][18:23:58 10.09.2026][Display][DEBUG] {
+  true,
+  [3] = false
+}
+[1.300][18:24:00 10.09.2026][App][INFO] Doors open done
+[7.500][18:24:06 10.09.2026][Display][DEBUG] {
+  true,
+  [3] = false,
+  [5] = true
+}
+[10.600][18:24:09 10.09.2026][App][INFO] Doors close done
+[0.000][18:24:15 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:24:15 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:24:15 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][18:24:15 10.09.2026][Display][DEBUG] {
+  true,
+  [3] = false,
+  [5] = true
+}
+[0.050][18:24:15 10.09.2026][Display][DEBUG] {
+  false,
+  [3] = false,
+  [5] = true
+}
+[1.300][18:24:17 10.09.2026][App][INFO] Doors open done
+[10.600][18:24:26 10.09.2026][App][INFO] Doors close done
+[0.000][18:24:37 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:24:37 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:24:37 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][18:24:37 10.09.2026][Display][DEBUG] {
+  false,
+  [3] = false,
+  [5] = true
+}
+[0.050][18:24:37 10.09.2026][Display][DEBUG] {
+  false,
+  [3] = false,
+  [5] = false
+}
+[1.300][18:24:39 10.09.2026][App][INFO] Doors open done
+[10.600][18:24:48 10.09.2026][App][INFO] Doors close done
+[92.450][18:26:10 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 92.45,
+  ping_send = false
+}
+[92.450][18:26:10 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[92.450][18:26:10 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[98.900][18:26:16 10.09.2026][App][INFO] Doors open done
+[103.200][18:26:21 10.09.2026][App][INFO] Doors close done
+[0.000][18:26:27 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:26:27 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:26:27 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:26:28 10.09.2026][App][INFO] Doors open done
+[7.100][18:26:34 10.09.2026][App][INFO] Doors close done
+[0.000][18:26:40 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:26:40 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:26:40 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:26:42 10.09.2026][App][INFO] Doors open done
+[4.300][18:26:45 10.09.2026][App][INFO] Doors close done
+[0.000][18:26:56 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:26:56 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:26:56 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:26:58 10.09.2026][App][INFO] Doors open done
+[10.600][18:27:07 10.09.2026][App][INFO] Doors close done
+[110.600][18:28:47 10.09.2026][App][INFO] Doors open done
+[119.900][18:28:56 10.09.2026][App][INFO] Doors close done
+[0.000][18:29:08 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:29:08 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:29:08 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:29:09 10.09.2026][App][INFO] Doors open done
+[10.600][18:29:18 10.09.2026][App][INFO] Doors close done
+[0.000][18:29:30 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:29:30 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:29:30 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:29:31 10.09.2026][App][INFO] Doors open done
+[3.900][18:29:34 10.09.2026][App][INFO] Doors close done
+[6.900][18:29:37 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 5.9,
+  ping_send = true
+}
+[7.900][18:29:38 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7.9,
+  ping_send = false
+}
+[7.900][18:29:38 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[7.900][18:29:38 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[7.950][18:29:38 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[7.950][18:29:38 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[14.000][18:29:44 10.09.2026][App][INFO] Doors open done
+[23.300][18:29:53 10.09.2026][App][INFO] Doors close done
+[0.000][18:30:05 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:30:05 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:30:05 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:30:06 10.09.2026][App][INFO] Doors open done
+[8.000][18:30:13 10.09.2026][App][INFO] Doors close done
+[0.000][18:30:24 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:30:24 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:30:24 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:30:25 10.09.2026][App][INFO] Doors open done
+[6.200][18:30:30 10.09.2026][App][INFO] Doors close done
+[10.000][18:30:34 10.09.2026][App][INFO] Doors open done
+[19.300][18:30:43 10.09.2026][App][INFO] Doors close done
+[0.000][18:30:55 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:30:55 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:30:55 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:30:56 10.09.2026][App][INFO] Doors open done
+[5.100][18:31:00 10.09.2026][App][INFO] Doors close done
+[8.600][18:31:03 10.09.2026][App][INFO] Doors open done
+[17.900][18:31:13 10.09.2026][App][INFO] Doors close done
+[0.000][18:31:24 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:31:24 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:31:24 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:31:26 10.09.2026][App][INFO] Doors open done
+[10.600][18:31:35 10.09.2026][App][INFO] Doors close done
+[13.700][18:31:38 10.09.2026][App][INFO] Doors open done
+[16.200][18:31:40 10.09.2026][App][INFO] Doors close done
+[0.000][18:31:47 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:31:47 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:31:47 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:31:48 10.09.2026][App][INFO] Doors open done
+[3.300][18:31:50 10.09.2026][App][INFO] Doors close done
+[0.000][18:31:57 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:31:57 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:31:57 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:31:58 10.09.2026][App][INFO] Doors open done
+[3.300][18:32:00 10.09.2026][App][INFO] Doors close done
+[0.000][18:32:11 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:32:11 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:32:11 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:32:13 10.09.2026][App][INFO] Doors open done
+[3.600][18:32:15 10.09.2026][App][INFO] Doors close done
+[0.000][18:32:26 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:32:26 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:32:26 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:32:28 10.09.2026][App][INFO] Doors open done
+[3.400][18:32:30 10.09.2026][App][INFO] Doors close done
+[5.800][18:32:32 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 4.8000000000000007,
+  ping_send = true
+}
+[199.900][18:35:46 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 199.9,
+  ping_send = false
+}
+[199.900][18:35:46 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[199.900][18:35:46 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[203.450][18:35:50 10.09.2026][App][INFO] Doors open done
+[205.250][18:35:52 10.09.2026][App][INFO] Doors close done
+[0.000][18:35:59 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:35:59 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:35:59 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:36:00 10.09.2026][App][INFO] Doors open done
+[10.600][18:36:09 10.09.2026][App][INFO] Doors close done
+[14.100][18:36:13 10.09.2026][App][INFO] Doors open done
+[23.400][18:36:22 10.09.2026][App][INFO] Doors close done
+[0.000][18:36:33 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:36:33 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:36:33 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:36:34 10.09.2026][App][INFO] Doors open done
+[10.600][18:36:44 10.09.2026][App][INFO] Doors close done
+[63.600][18:37:37 10.09.2026][App][INFO] Doors open done
+[69.500][18:37:43 10.09.2026][App][INFO] Doors close done
+[0.000][18:37:49 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:37:49 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:37:49 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:37:50 10.09.2026][App][INFO] Doors open done
+[5.300][18:37:54 10.09.2026][App][INFO] Doors open done
+[14.600][18:38:04 10.09.2026][App][INFO] Doors close done
+[0.000][18:38:10 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:38:10 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:38:10 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:38:11 10.09.2026][App][INFO] Doors open done
+[10.600][18:38:21 10.09.2026][App][INFO] Doors close done
+[0.000][18:38:27 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:38:27 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:38:27 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:38:28 10.09.2026][App][INFO] Doors open done
+[10.600][18:38:38 10.09.2026][App][INFO] Doors close done
+[0.000][18:42:46 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:42:46 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:42:46 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:42:47 10.09.2026][App][INFO] Doors open done
+[6.700][18:42:53 10.09.2026][App][INFO] Doors close done
+[9.200][18:42:55 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 8.2000000000000011,
+  ping_send = true
+}
+[10.200][18:42:56 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 10.200000000000001,
+  ping_send = false
+}
+[10.200][18:42:56 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[10.200][18:42:56 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][18:43:16 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:43:16 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:43:16 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:43:17 10.09.2026][App][INFO] Doors open done
+[10.600][18:43:27 10.09.2026][App][INFO] Doors close done
+[0.000][18:43:33 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:43:33 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:43:33 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:43:34 10.09.2026][App][INFO] Doors open done
+[10.600][18:43:44 10.09.2026][App][INFO] Doors close done
+[0.000][18:43:50 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:43:50 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:43:50 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:43:51 10.09.2026][App][INFO] Doors open done
+[10.600][18:44:01 10.09.2026][App][INFO] Doors close done
+[30.100][18:44:20 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 29.1,
+  ping_send = true
+}
+[238.200][18:47:48 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 238.20000000000002,
+  ping_send = false
+}
+[238.200][18:47:48 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[238.200][18:47:48 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][18:48:00 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:48:00 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:48:00 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:48:01 10.09.2026][App][INFO] Doors open done
+[7.000][18:48:07 10.09.2026][App][INFO] Doors close done
+[0.000][18:48:13 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:48:13 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:48:13 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:48:14 10.09.2026][App][INFO] Doors open done
+[5.900][18:48:19 10.09.2026][App][INFO] Doors close done
+[24.900][18:48:38 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 23.900000000000002,
+  ping_send = true
+}
+[24.900][18:48:38 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 24.900000000000002,
+  ping_send = false
+}
+[24.900][18:48:38 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[24.900][18:48:38 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[30.150][18:48:43 10.09.2026][App][INFO] Doors open done
+[35.450][18:48:48 10.09.2026][App][INFO] Doors close done
+[0.000][18:48:55 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:48:55 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:48:55 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:48:56 10.09.2026][App][INFO] Doors open done
+[6.500][18:49:01 10.09.2026][App][INFO] Doors open done
+[15.800][18:49:11 10.09.2026][App][INFO] Doors close done
+[0.000][18:49:17 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:49:17 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:49:17 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:49:18 10.09.2026][App][INFO] Doors open done
+[6.800][18:49:24 10.09.2026][App][INFO] Doors close done
+[0.000][18:49:30 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:49:30 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:49:30 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:49:32 10.09.2026][App][INFO] Doors open done
+[8.900][18:49:39 10.09.2026][App][INFO] Doors close done
+[0.000][18:49:46 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:49:46 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:49:46 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:49:47 10.09.2026][App][INFO] Doors open done
+[10.600][18:49:57 10.09.2026][App][INFO] Doors close done
+[12.800][18:50:00 10.09.2026][App][INFO] Doors open done
+[14.300][18:50:01 10.09.2026][App][INFO] Doors open done
+[19.100][18:50:06 10.09.2026][App][INFO] Doors close done
+[0.000][18:50:12 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:50:12 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:50:12 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:50:14 10.09.2026][App][INFO] Doors open done
+[3.600][18:50:16 10.09.2026][App][INFO] Doors close done
+[0.000][18:50:22 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:50:22 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:50:22 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:50:24 10.09.2026][App][INFO] Doors open done
+[3.600][18:50:26 10.09.2026][App][INFO] Doors close done
+[0.000][18:50:45 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:50:45 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:50:45 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:50:46 10.09.2026][App][INFO] Doors open done
+[10.600][18:50:56 10.09.2026][App][INFO] Doors close done
+[22.300][18:51:07 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 21.3,
+  ping_send = true
+}
+[24.300][18:51:09 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 24.3,
+  ping_send = false
+}
+[24.300][18:51:09 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[24.300][18:51:09 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[24.350][18:51:09 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[24.350][18:51:09 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][18:51:20 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:51:20 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:51:20 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:51:21 10.09.2026][App][INFO] Doors open done
+[10.600][18:51:31 10.09.2026][App][INFO] Doors close done
+[14.100][18:51:34 10.09.2026][App][INFO] Doors open done
+[23.400][18:51:43 10.09.2026][App][INFO] Doors close done
+[0.000][18:53:00 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:53:00 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:53:00 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:53:01 10.09.2026][App][INFO] Doors open done
+[5.400][18:53:05 10.09.2026][App][INFO] Doors close done
+[8.400][18:53:08 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 7.4,
+  ping_send = true
+}
+[8.400][18:53:08 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 8.4,
+  ping_send = false
+}
+[8.400][18:53:08 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[8.400][18:53:08 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[8.450][18:53:09 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[8.450][18:53:09 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][18:53:25 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:53:25 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:53:25 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:53:26 10.09.2026][App][INFO] Doors open done
+[4.900][18:53:30 10.09.2026][App][INFO] Doors close done
+[0.000][18:53:36 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:53:36 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:53:36 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:53:37 10.09.2026][App][INFO] Doors open done
+[10.600][18:53:47 10.09.2026][App][INFO] Doors close done
+[0.000][18:53:53 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:53:53 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:53:53 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:53:54 10.09.2026][App][INFO] Doors open done
+[10.600][18:54:04 10.09.2026][App][INFO] Doors close done
+[0.000][18:59:48 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][18:59:48 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][18:59:48 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][18:59:50 10.09.2026][App][INFO] Doors open done
+[5.200][18:59:54 10.09.2026][App][INFO] Doors close done
+[0.000][19:00:00 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:00:00 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:00:00 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][19:00:01 10.09.2026][App][INFO] Doors open done
+[9.600][19:00:10 10.09.2026][App][INFO] Doors close done
+[0.000][19:00:16 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:00:16 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:00:16 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][19:00:17 10.09.2026][App][INFO] Doors open done
+[11.300][19:00:27 10.09.2026][App][INFO] Doors close done
+[0.000][19:00:39 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:00:39 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:00:39 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][19:00:40 10.09.2026][App][INFO] Doors open done
+[10.600][19:00:49 10.09.2026][App][INFO] Doors close done
+[0.000][19:01:37 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:01:37 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:01:37 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][19:01:52 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:01:52 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:01:52 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][19:01:53 10.09.2026][App][INFO] Doors open done
+[10.600][19:02:03 10.09.2026][App][INFO] Doors close done
+[34.200][19:02:26 10.09.2026][App][INFO] Doors open done
+[36.700][19:02:29 10.09.2026][App][INFO] Doors close done
+[38.600][19:02:31 10.09.2026][App][INFO] Doors open done
+[40.500][19:02:32 10.09.2026][App][INFO] Doors close done
+[0.000][19:03:17 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:03:17 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:03:17 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][19:03:18 10.09.2026][App][INFO] Doors open done
+[10.600][19:03:28 10.09.2026][App][INFO] Doors close done
+[0.000][19:03:37 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:03:37 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:03:37 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][19:03:38 10.09.2026][App][INFO] Doors open done
+[10.600][19:03:48 10.09.2026][App][INFO] Doors close done
+[23.900][19:04:01 10.09.2026][App][INFO] Doors open done
+[33.200][19:04:10 10.09.2026][App][INFO] Doors close done
+[0.000][19:04:22 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][19:04:22 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][19:04:22 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][19:04:23 10.09.2026][App][INFO] Doors open done
+[10.600][19:04:32 10.09.2026][App][INFO] Doors close done
+[48.400][19:05:10 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 47.400000000000006,
+  ping_send = true
+}
+[208.250][21:08:54 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 208.25,
+  ping_send = false
+}
+[208.250][21:08:54 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[208.250][21:08:54 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[208.250][21:08:54 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[208.250][21:08:54 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[229.750][21:09:15 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 228.75,
+  ping_send = true
+}
+[229.750][21:09:15 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 229.75,
+  ping_send = false
+}
+[229.750][21:09:15 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[229.750][21:09:15 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[259.150][21:09:44 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 258.15000000000003,
+  ping_send = true
+}
+[276.150][21:10:01 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 276.15000000000003,
+  ping_send = false
+}
+[276.150][21:10:01 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[276.150][21:10:01 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[276.600][21:10:02 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[276.600][21:10:02 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[288.650][21:10:14 10.09.2026][App][INFO] Doors open done
+[292.150][21:10:17 10.09.2026][App][INFO] Doors close done
+[0.000][21:10:24 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][21:10:24 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][21:10:24 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][21:10:25 10.09.2026][App][INFO] Doors open done
+[10.600][21:10:34 10.09.2026][App][INFO] Doors close done
+[46.000][21:11:10 10.09.2026][App][INFO] Doors open done
+[48.900][21:11:13 10.09.2026][App][INFO] Doors close done
+[0.000][21:11:19 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][21:11:19 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][21:11:19 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][21:11:20 10.09.2026][App][INFO] Doors open done
+[10.600][21:11:30 10.09.2026][App][INFO] Doors close done
+[55.700][21:12:15 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 54.7,
+  ping_send = true
+}
+[103.700][21:13:03 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 103.7,
+  ping_send = false
+}
+[103.700][21:13:03 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[103.700][21:13:03 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[103.750][21:13:03 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[103.750][21:13:03 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][21:13:12 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][21:13:12 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][21:13:12 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][21:13:14 10.09.2026][App][INFO] Doors open done
+[10.600][21:13:23 10.09.2026][App][INFO] Doors close done
+[13.800][21:13:26 10.09.2026][App][INFO] Disconnected from EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 12.8,
+  ping_send = true
+}
+[28.800][21:13:41 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 28.8,
+  ping_send = false
+}
+[28.800][21:13:41 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[28.800][21:13:41 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[28.800][21:13:41 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[28.800][21:13:41 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[0.000][21:13:52 10.09.2026][App][INFO] Connected to EMCU {
+  computer_id = 1,
+  device_name = "EMCU",
+  latest_ping = 0,
+  ping_send = false
+}
+[0.000][21:13:52 10.09.2026][Display][DEBUG] Floors updated, total pages 1
+[0.000][21:13:52 10.09.2026][Display][DEBUG] Drawing buttons page 1
+[1.300][21:13:53 10.09.2026][App][INFO] Doors open done
+[5.100][21:13:57 10.09.2026][App][INFO] Doors close done
