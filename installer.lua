@@ -109,9 +109,9 @@ local function proceed_install()
 
     create_startup(fs.combine("/", option.path, "main.lua"))
 
-    print("Removing installer")
+    -- print("Removing installer")
 
-    remove_installer()
+    -- remove_installer()
 
     print("Done")
 end
