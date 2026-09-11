@@ -2,22 +2,27 @@ local REPO_BASE_URL = "https://api.github.com/repos/holy-filipp/create-elevator/
 local COMMON_PATH = "/common"
 local INSTALL_OPTIONS = {
     {
+        id = "emcu",
         name = "Elevator Main Controller Unit (EMCU)",
         description = "The \"brain\" of elevator.",
         path = "/emcu",
     },
     {
+        id = "ccu",
         name = "Car Controller Unit (CCU)",
         description = "The controller, which is fitted to the elevator car, controls the doors and the display panel inside the car.",
         path = "/ccu",
     },
     {
+        id = "lcu",
         name = "Landing Controller Unit (LCU)",
         description = "The controller, which installed on each floor, is responsible foor on-floor display.",
         path = "/lcu",
     },
 }
 local ARROW_RIGHT = string.char(tonumber("0x10"))
+
+local args = { ... }
 
 local selected_option = 1
 
@@ -51,10 +56,6 @@ local function draw_status(path)
     term.clear()
     term.setCursorPos(1, 1)
     print("Downloading", path)
-end
-
-local function remove_installer()
-    fs.delete("/installer.lua")
 end
 
 local function download_file(url, path_to_save)
@@ -109,14 +110,23 @@ local function proceed_install()
 
     create_startup(fs.combine("/", option.path, "main.lua"))
 
-    -- print("Removing installer")
-
-    -- remove_installer()
-
-    print("Done")
+    os.reboot()
 end
 
-draw_menu()
+if args[1] then
+    local id = args[1]
+
+    for i, option in ipairs(INSTALL_OPTIONS) do
+        if option.id == id then
+            selected_option = i
+            break
+        end
+    end
+
+    proceed_install()
+else
+    draw_menu()
+end
 
 while true do
     local _, key = os.pullEvent("key")
