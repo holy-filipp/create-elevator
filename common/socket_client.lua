@@ -147,18 +147,18 @@ function SocketClient:tick_loop_internal()
                 self.connected_computer.ping_send = true
             end
 
-            if self.connected_computer.latest_ping + 1 <= os.clock() then
+            if self.connected_computer.latest_ping + 3 <= os.clock() then
                 self:trigger_event("disconnect", self.connected_computer, "Timed out")
 
                 self.connected_computer = nil
             end
         end
 
-        if not self.connected_computer and self.keep_connection and self.last_connection_try + 1 <= os.clock() and self.want_to_connect_computer_id then
+        if not self.connected_computer and self.keep_connection and self.last_connection_try + 3 <= os.clock() and self.want_to_connect_computer_id then
             self:connect_internal(self.want_to_connect_computer_id)
         end
 
-        os.sleep(0.1)
+        os.sleep(1)
     end
 end
 

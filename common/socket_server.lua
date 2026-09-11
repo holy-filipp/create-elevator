@@ -145,14 +145,14 @@ function SocketServer:tick_loop_internal()
         if self.kill then break end
 
         for computer_id, data in pairs(self.connected_computers) do
-            if data.latest_ping + 1 <= os.clock() then
+            if data.latest_ping + 3 <= os.clock() then
                 self.connected_computers[computer_id] = nil
 
                 self:trigger_event("disconnect", data, "Timed out")
             end
         end
         
-        os.sleep(0.1)
+        os.sleep(1)
     end
 end
 
