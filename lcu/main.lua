@@ -29,7 +29,7 @@ local function main()
     end
 
     -- Monitor
-    local monitor = peripheral.wrap(config.MONITOR_SIDE)
+    local monitor = peripheral.wrap(config.MONITOR_PERIPHERAL_NAME)
 
     if not monitor then
         main_log:error("Failed to wrap monitor")

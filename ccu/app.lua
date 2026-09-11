@@ -54,7 +54,7 @@ function App:run()
     end
 
     -- Motor
-    self.motor = peripheral.wrap("Create_CreativeMotor_0")
+    self.motor = peripheral.wrap(config.MOTOR_PERIPHERAL_NAME)
 
     if not self.motor then
         self.log:error("Failed to wrap motor")
@@ -69,7 +69,7 @@ function App:run()
     self.vfd:set_easing_function(easing.easeInOutCubic)
 
     -- Monitor
-    self.monitor = peripheral.wrap(config.MONITOR_SIDE)
+    self.monitor = peripheral.wrap(config.MONITOR_PERIPHERAL_NAME)
 
     if not self.monitor then
         self.log:error("Failed to wrap monitor")

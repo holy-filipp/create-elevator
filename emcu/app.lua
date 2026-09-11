@@ -174,6 +174,7 @@ function App:learn_lcus_positions()
                 self:save_hardware_memory()
 
                 self.log:info("Learning done")
+                self.learning = nil
                 self:ready()
             end
         end,
@@ -360,6 +361,10 @@ function App:doors_have_finished_moving(payload, computer, reply)
     if payload.direction == "close" then
         self.is_doors_close_pending = false
         self.doors_state = "closed"
+
+        if self.up_queue:length() == 0 and self.down_queue:length() == 0 and self.current_direction ~= "none" and not self.pending_pickup_direction then
+            self.current_direction = "none"
+        end
     end
     
     if payload.direction == "open" then
@@ -409,7 +414,7 @@ function App:run()
     end
 
     -- Motor
-    self.motor = peripheral.wrap(config.MOTOR_SIDE)
+    self.motor = peripheral.wrap(config.MOTOR_PERIPHERAL_NAME)
     
     if not self.motor then
         self.log:error("Failed to wrap motor")
@@ -538,24 +543,54 @@ function App:prepare_request_handlers()
                 if self.up_queue:lookup(function (call)
                     return call.floor == data.floor
                 end) then return end
+                if self.down_queue:lookup(function (call)
+                    return call.floor == data.floor
+                end) then return end
                 
                 if self.target_floor == data.floor then return end
 
-                self.up_queue:push(data)
-                self.up_queue:sort(compare_ascending)
+                if self.current_direction == "none" then
+                    self.pending_pickup_direction = "up"
+
+                    if data.floor < self.current_floor then
+                        self.down_queue:push(data)
+                    else
+                        self.up_queue:push(data)
+                    end
+                else
+                    self.up_queue:push(data)
+                    self.up_queue:sort(compare_ascending)
+                end
             end
 
             if data.direction == "down" then
                 self:set_hall_led(data.floor, "down", true)
 
+                if self.up_queue:lookup(function (call)
+                    return call.floor == data.floor
+                end) then return end
                 if self.down_queue:lookup(function (call)
                     return call.floor == data.floor
                 end) then return end
 
                 if self.target_floor == data.floor then return end
 
-                self.down_queue:push(data)
-                self.down_queue:sort(compare_descending)
+                if self.current_direction == "none" then
+                    self.pending_pickup_direction = "down"
+                end
+
+                if self.current_direction == "none" then
+                    self.pending_pickup_direction = "down"
+
+                    if data.floor < self.current_floor then
+                        self.down_queue:push(data)
+                    else
+                        self.up_queue:push(data)
+                    end
+                else
+                    self.down_queue:push(data)
+                    self.down_queue:sort(compare_descending)
+                end
             end
         end,
         ["CAR CALL"] = function (data)
@@ -563,6 +598,9 @@ function App:prepare_request_handlers()
                 self:set_car_led(data.floor, true)
 
                 if self.up_queue:lookup(function (call)
+                    return call.floor == data.floor
+                end) then return end
+                if self.down_queue:lookup(function (call)
                     return call.floor == data.floor
                 end) then return end
 
@@ -575,6 +613,9 @@ function App:prepare_request_handlers()
             if data.floor < self.current_floor then
                 self:set_car_led(data.floor, true)
 
+                if self.up_queue:lookup(function (call)
+                    return call.floor == data.floor
+                end) then return end
                 if self.down_queue:lookup(function (call)
                     return call.floor == data.floor
                 end) then return end
@@ -680,12 +721,24 @@ function App:scheduler_loop()
         if self.current_direction == "none" then
             if up_queue_len > 0 then
                 self.current_direction = "up"
+                self.log:debug("Set the current direction to up")
             end
 
             if down_queue_len > 0 then
                 self.current_direction = "down"
+                self.log:debug("Set the current direction to down")
             end
 
+            self:update_indicators()
+        end
+
+        if self.current_direction ~= "up" and up_queue_len > 0 and down_queue_len == 0 then
+                self.current_direction = "up"
+                self:update_indicators()
+        end
+
+        if self.current_direction ~= "down" and down_queue_len > 0 and up_queue_len == 0 then
+            self.current_direction = "down"
             self:update_indicators()
         end
 
@@ -767,13 +820,9 @@ function App:scheduler_loop()
                 self:update_indicators()
             end
 
-            if self.current_direction ~= "up" and up_queue_len > 0 and down_queue_len == 0 then
-                self.current_direction = "up"
-                self:update_indicators()
-            end
-
-            if self.current_direction ~= "down" and down_queue_len > 0 and up_queue_len == 0 then
-                self.current_direction = "down"
+            if self.pending_pickup_direction then
+                self.current_direction = self.pending_pickup_direction
+                self.pending_pickup_direction = nil
                 self:update_indicators()
             end
         end
