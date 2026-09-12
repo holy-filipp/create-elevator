@@ -5,10 +5,13 @@ local config = require("config")
 local redstone_io = require("common.redstone_io")
 local display = require("display")
 local button = require("common.button")
+local config = require("config")
 
--- Logger setup
-logger:add_handler(logger.file_handler("/lcu/log.log"))
-logger:set_level(logger.level_trace)
+-- Logger
+if config.LOG_TO_FILE then
+    logger:add_handler(logger.file_handler("/emcu/log.log"))
+end
+logger:set_level(config.LOG_LEVEL)
 
 local main_log = logger.new("Main")
 

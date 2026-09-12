@@ -91,7 +91,7 @@ function App:learn_lcus()
         }
     else
         self.log:info("Moving car down to LFL")
-        self.vfd:stupid_move("rev", config.LEARNING_RPM)
+        self.vfd:stupid_move(config.REVERSE_MOTOR and "fwd" or "rev", config.LEARNING_RPM)
 
         -- Wait until LFL sensor triggers, check LCUs
         self.learning = {
@@ -134,7 +134,7 @@ function App:learn_lcus_positions()
     -- To acknowledge LCUs positions, we need to move car up and listen for sensors on LCU, and when car reaches upper landing, it will trigger Upper Final Limit, after that we stop car
     os.sleep(1)
     -- Move car up
-    self.vfd:stupid_move("fwd", config.LEARNING_RPM)
+    self.vfd:stupid_move(config.REVERSE_MOTOR and "rev" or "fwd", config.LEARNING_RPM)
 
     self.learning = {
         state = "CALCULATING POSITIONS",
@@ -249,6 +249,8 @@ function App:ready()
         type = "$SET AS FINAL",
         side = "upper",
     })
+
+    self:update_indicators()
 
     self.spawn_thread(function ()
         self:scheduler_loop()
@@ -505,7 +507,10 @@ function App:find_lcu_by_floor(floor)
 end
 
 function App:get_direction(current_floor, target_floor)
-    return target_floor > current_floor and "fwd" or "rev"
+    local option_1 = config.REVERSE_MOTOR and "rev" or "fwd"
+    local option_2 = config.REVERSE_MOTOR and "fwd" or "rev"
+
+    return target_floor > current_floor and option_1 or option_2
 end
 
 local function compare_descending(a, b)
@@ -728,18 +733,14 @@ function App:scheduler_loop()
                 self.current_direction = "down"
                 self.log:debug("Set the current direction to down")
             end
-
-            self:update_indicators()
         end
 
         if self.current_direction ~= "up" and up_queue_len > 0 and down_queue_len == 0 then
-                self.current_direction = "up"
-                self:update_indicators()
+            self.current_direction = "up"
         end
 
         if self.current_direction ~= "down" and down_queue_len > 0 and up_queue_len == 0 then
             self.current_direction = "down"
-            self:update_indicators()
         end
 
         if self.current_direction == "up" and up_queue_len > 0 and not vfd_busy and doors_closed and not self.should_open_doors then
@@ -783,7 +784,7 @@ function App:scheduler_loop()
                     self.emcu_hardware_memory.current_floor_lcu = current_lcu.computer_id
                     self:save_hardware_memory()
 
-                    self.old_current_floor = self.current_direction
+                    self.old_current_floor = self.current_floor
                 end
             end
 
@@ -817,14 +818,17 @@ function App:scheduler_loop()
 
             if up_queue_len == 0 and down_queue_len == 0 and self.current_direction ~= "none" then
                 self.current_direction = "none"
-                self:update_indicators()
             end
 
             if self.pending_pickup_direction then
                 self.current_direction = self.pending_pickup_direction
                 self.pending_pickup_direction = nil
-                self:update_indicators()
             end
+        end
+
+        if self.old_current_direction ~= self.current_direction then
+            self:update_indicators()
+            self.old_current_direction = self.current_direction
         end
 
         os.sleep(0.1)

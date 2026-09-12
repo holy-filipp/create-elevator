@@ -1,4 +1,9 @@
+local logger = require("common.logger")
+
 local config = {}
+
+config.LOG_TO_FILE = false
+config.LOG_LEVEL = logger.level_info
 
 config.CHANNEL = 1337
 config.DEVICE_NAME = "EMCU"
@@ -12,5 +17,6 @@ config.LFL_COLOR = colors.white -- Lower Final Limit
 config.LEARNING_RPM = 48
 config.NORMAL_RPM = 60
 config.DOORS_WAIT_TIME = 8
+config.REVERSE_MOTOR = false
 
 return config

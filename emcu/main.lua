@@ -1,10 +1,13 @@
 local initial_setup = require("initial_setup")
 local logger = require("common.logger")
 local app = require("app")
+local config = require("config")
 
 -- Logger
-logger:add_handler(logger.file_handler("/emcu/log.log"))
-logger:set_level(logger.level_trace)
+if config.LOG_TO_FILE then
+    logger:add_handler(logger.file_handler("/emcu/log.log"))
+end
+logger:set_level(config.LOG_LEVEL)
 
 -- Settings
 settings.define("emcu.landings", {

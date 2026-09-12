@@ -1,4 +1,9 @@
+local logger = require("common.logger")
+
 local config = {}
+
+config.LOG_TO_FILE = false
+config.LOG_LEVEL = logger.level_info
 
 config.DEVICE_NAME = "LCU"
 config.CHANNEL = 1337
